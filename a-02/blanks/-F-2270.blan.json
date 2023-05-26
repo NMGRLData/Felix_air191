@@ -1,11 +1,11 @@
 {
     "Ar36": {
-        "error": 0.00048202380814086205,
+        "error": 0.0007026127717133206,
         "error_type": "",
-        "fit": "Average_SEM, but if MSWD>1 use SEM * sqrt(MSWD)",
+        "fit": "Average_SD",
         "references": [
             {
-                "exclude": "ok",
+                "exclude": "omit",
                 "record_id": "ba-02-F-499",
                 "uuid": "cd4bf70c-31a1-4267-b62d-c304ae9ef1df"
             },
@@ -46,15 +46,15 @@
             }
         ],
         "reviewed": true,
-        "value": 0.002297793292648768
+        "value": 0.002369431362221088
     },
     "Ar37": {
-        "error": 0.0061917524619894615,
+        "error": 0.006831019845294691,
         "error_type": "",
-        "fit": "Average_SEM, but if MSWD>1 use SEM * sqrt(MSWD)",
+        "fit": "Weighted Mean_SEM",
         "references": [
             {
-                "exclude": "ok",
+                "exclude": "omit",
                 "record_id": "ba-02-F-499",
                 "uuid": "cd4bf70c-31a1-4267-b62d-c304ae9ef1df"
             },
@@ -95,15 +95,15 @@
             }
         ],
         "reviewed": true,
-        "value": 0.02573618614388161
+        "value": 0.02066999500522869
     },
     "Ar38": {
-        "error": 0.004492514046001972,
+        "error": 0.002695165925284879,
         "error_type": "",
-        "fit": "Average_SEM, but if MSWD>1 use SEM * sqrt(MSWD)",
+        "fit": "Weighted Mean_SEM",
         "references": [
             {
-                "exclude": "ok",
+                "exclude": "omit",
                 "record_id": "ba-02-F-499",
                 "uuid": "cd4bf70c-31a1-4267-b62d-c304ae9ef1df"
             },
@@ -144,15 +144,15 @@
             }
         ],
         "reviewed": true,
-        "value": 0.0051137804091715925
+        "value": 0.0028474293171737363
     },
     "Ar39": {
-        "error": 0.0026779574331959777,
+        "error": 0.0021498371752193047,
         "error_type": "",
-        "fit": "Average_SEM, but if MSWD>1 use SEM * sqrt(MSWD)",
+        "fit": "Weighted Mean_SEM",
         "references": [
             {
-                "exclude": "ok",
+                "exclude": "omit",
                 "record_id": "ba-02-F-499",
                 "uuid": "cd4bf70c-31a1-4267-b62d-c304ae9ef1df"
             },
@@ -193,15 +193,15 @@
             }
         ],
         "reviewed": true,
-        "value": 0.028609592273011603
+        "value": 0.023383494634888605
     },
     "Ar40": {
-        "error": 0.06813799827048728,
+        "error": 0.07924399896110222,
         "error_type": "",
-        "fit": "Average_SEM, but if MSWD>1 use SEM * sqrt(MSWD)",
+        "fit": "Average_SD",
         "references": [
             {
-                "exclude": "ok",
+                "exclude": "omit",
                 "record_id": "ba-02-F-499",
                 "uuid": "cd4bf70c-31a1-4267-b62d-c304ae9ef1df"
             },
@@ -242,6 +242,6 @@
             }
         ],
         "reviewed": true,
-        "value": 0.15438146589709015
+        "value": 0.8737509091881375
     }
 }
